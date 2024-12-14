@@ -1,0 +1,27 @@
+send email for project manager when create a new project
+send email for members under department project when create a new project
+send email for members when create a new task
+change status automatically to overdue for task and project
+notify members when the deadline expires task and project
+automatically prioritize tasks
+send notification for members via database when create a new task and change status
+
+Reports
+    - Project
+        - projects
+        - project
+        - projects in status
+        - members with productivities in project
+
+    - Task
+        - task
+        - tasks in status
+        - tasks in priority
+        - task with activities
+        - task with productivities
+
+    - members
+        - productivities in project
+        - productivities in task
+        - task completion report for member
+        - task completion report for members
